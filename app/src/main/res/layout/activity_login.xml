@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_login"
+    tools:context=".Login">
+
+
+    <TextView
+        android:id="@+id/tvLogin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:fontFamily="sans-serif-black"
+        android:text="@string/title_login"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="60dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.473"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.041" />
+
+    <EditText
+        android:id="@+id/etUser"
+        android:layout_width="371dp"
+        android:layout_height="73dp"
+        android:layout_margin="10dp"
+        android:background="#AD605D5D"
+        android:drawableLeft="@drawable/ic_baseline_perm_identity_24"
+        android:drawablePadding="20dp"
+        android:ems="10"
+        android:hint="@string/hint_user_name"
+        android:inputType="textPersonName"
+        android:padding="20dp"
+        android:textColorHint="@color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tvLogin"
+        app:layout_constraintVertical_bias="0.059" />
+
+    <EditText
+        android:id="@+id/etPassword"
+        android:layout_width="371dp"
+        android:layout_height="73dp"
+        android:layout_marginTop="20dp"
+        android:background="#AD605D5D"
+        android:drawableLeft="@drawable/ic_baseline_lock_24"
+        android:drawablePadding="20dp"
+        android:ems="10"
+        android:hint="@string/hint_password"
+        android:inputType="textPersonName"
+        android:padding="20dp"
+        android:textColorHint="@color/white"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/etUser" />
+
+    <Button
+        android:id="@+id/loginBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/sig_in"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/etPassword"
+        app:layout_constraintVertical_bias="0.128" />
+
+    <TextView
+        android:id="@+id/checkIn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="goToCheckIn"
+        android:text="@string/check_in"
+        android:textColor="@color/black"
+        android:textSize="15dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/loginBtn"
+        app:layout_constraintVertical_bias="0.089" />
+
+    <TextView
+        android:id="@+id/tvOtherSession"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/other_session"
+        android:textColor="@color/black"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/checkIn"
+        app:layout_constraintVertical_bias="0.367" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="85dp"
+        android:layout_height="95dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.276"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tvOtherSession"
+        app:layout_constraintVertical_bias="0.285"
+        app:srcCompat="@drawable/google" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="93dp"
+        android:layout_height="94dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.701"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tvOtherSession"
+        app:layout_constraintVertical_bias="0.298"
+        app:srcCompat="@drawable/facebook" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

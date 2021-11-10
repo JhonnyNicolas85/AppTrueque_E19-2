@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Trueque</string>
+    <string name="title_login">Iniciar Sesión</string>
+    <string name="sig_in">Ingresar</string>
+    <string name="hint_password">Ingrese su contraseña</string>
+    <string name="hint_user_name">Nombre de usuario</string>
+    <string name="check_in">¿No tienes una cuenta?</string>
+    <string name="other_session">Iniciar sesión con:</string>
 </resources>
