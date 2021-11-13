@@ -7,4 +7,23 @@
     <string name="hint_user_name">Nombre de usuario</string>
     <string name="check_in">¿No tienes una cuenta?</string>
     <string name="other_session">Iniciar sesión con:</string>
+    <string name="form_registro">REGISTRO</string>
+    <string name="names">Nombres</string>
+    <string name="hint_name">Digite su nombre</string>
+    <string name="Names">Digite su combre completo</string>
+    <string name="Names1">Digite su nombre completo</string>
+    <string name="Last_names">DIgite su nombre completo</string>
+    <string name="city">Ciudad</string>
+    <string name="hint_city">Digite su ciudad</string>
+    <string name="city1">Digite su ciudad</string>
+    <string name="hint_phone">Digite su telefono</string>
+    <string name="telephone">Digite su telefono</string>
+    <string name="email">Email</string>
+    <string name="hint_email">Digite su Email</string>
+    <string name="email_Adress">Digite su Email</string>
+    <string name="password">Contraseña</string>
+    <string name="password1">Digite su conraseña</string>
+    <string name="clean">limpiar</string>
+    <string name="save">guardar</string>
+    <string name="phone">Telefono</string>
 </resources>
