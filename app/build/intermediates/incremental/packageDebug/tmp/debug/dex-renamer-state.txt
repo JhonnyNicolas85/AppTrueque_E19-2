@@ -1,4 +1,4 @@
-#Sun Nov 14 03:14:19 COT 2021
+#Sun Nov 14 03:24:47 COT 2021
 base.2=C\:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\6\\classes.dex
 path.2=6/classes.dex
 base.1=C\:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex

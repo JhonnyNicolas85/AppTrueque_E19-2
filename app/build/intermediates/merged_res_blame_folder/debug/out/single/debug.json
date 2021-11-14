@@ -8,12 +8,12 @@
         "source": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_check_in.xml.flat",
-        "source": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\src\\main\\res\\layout\\activity_check_in.xml"
-    },
-    {
         "merged": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
         "source": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_check_in.xml.flat",
+        "source": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\src\\main\\res\\layout\\activity_check_in.xml"
     },
     {
         "merged": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",

@@ -58,22 +58,19 @@
 35            android:exported="false" />
 35-->C:\OneDrive\Repositorios\AppMovil\MinTic\AppTrueque_E19-3\app\src\main\AndroidManifest.xml:26:13-37
 36        <activity
-36-->C:\OneDrive\Repositorios\AppMovil\MinTic\AppTrueque_E19-3\app\src\main\AndroidManifest.xml:27:9-35:20
+36-->C:\OneDrive\Repositorios\AppMovil\MinTic\AppTrueque_E19-3\app\src\main\AndroidManifest.xml:27:9-30:20
 37            android:name="com.subg2_3.trueque.MainActivity"
 37-->C:\OneDrive\Repositorios\AppMovil\MinTic\AppTrueque_E19-3\app\src\main\AndroidManifest.xml:28:13-41
 38            android:exported="true" >
 38-->C:\OneDrive\Repositorios\AppMovil\MinTic\AppTrueque_E19-3\app\src\main\AndroidManifest.xml:29:13-36
-39            <intent-filter>
-39-->C:\OneDrive\Repositorios\AppMovil\MinTic\AppTrueque_E19-3\app\src\main\AndroidManifest.xml:15:13-19:29
-40                <action android:name="android.intent.action.MAIN" />
-40-->C:\OneDrive\Repositorios\AppMovil\MinTic\AppTrueque_E19-3\app\src\main\AndroidManifest.xml:16:17-69
-40-->C:\OneDrive\Repositorios\AppMovil\MinTic\AppTrueque_E19-3\app\src\main\AndroidManifest.xml:16:25-66
-41
-42                <category android:name="android.intent.category.LAUNCHER" />
-42-->C:\OneDrive\Repositorios\AppMovil\MinTic\AppTrueque_E19-3\app\src\main\AndroidManifest.xml:18:17-77
-42-->C:\OneDrive\Repositorios\AppMovil\MinTic\AppTrueque_E19-3\app\src\main\AndroidManifest.xml:18:27-74
-43            </intent-filter>
-44        </activity>
-45    </application>
-46
-47</manifest>
+39        </activity>
+40        <activity
+40-->C:\OneDrive\Repositorios\AppMovil\MinTic\AppTrueque_E19-3\app\src\main\AndroidManifest.xml:32:9-35:20
+41            android:name="com.subg2_3.trueque.Login"
+41-->C:\OneDrive\Repositorios\AppMovil\MinTic\AppTrueque_E19-3\app\src\main\AndroidManifest.xml:33:13-34
+42            android:exported="true" >
+42-->C:\OneDrive\Repositorios\AppMovil\MinTic\AppTrueque_E19-3\app\src\main\AndroidManifest.xml:34:13-36
+43        </activity>
+44    </application>
+45
+46</manifest>

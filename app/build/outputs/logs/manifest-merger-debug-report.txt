@@ -109,11 +109,17 @@ ADDED from C:\OneDrive\Repositorios\AppMovil\MinTic\AppTrueque_E19-3\app\src\mai
 	android:name
 		ADDED from C:\OneDrive\Repositorios\AppMovil\MinTic\AppTrueque_E19-3\app\src\main\AndroidManifest.xml:25:13-36
 activity#com.subg2_3.trueque.MainActivity
-ADDED from C:\OneDrive\Repositorios\AppMovil\MinTic\AppTrueque_E19-3\app\src\main\AndroidManifest.xml:27:9-35:20
+ADDED from C:\OneDrive\Repositorios\AppMovil\MinTic\AppTrueque_E19-3\app\src\main\AndroidManifest.xml:27:9-30:20
 	android:exported
 		ADDED from C:\OneDrive\Repositorios\AppMovil\MinTic\AppTrueque_E19-3\app\src\main\AndroidManifest.xml:29:13-36
 	android:name
 		ADDED from C:\OneDrive\Repositorios\AppMovil\MinTic\AppTrueque_E19-3\app\src\main\AndroidManifest.xml:28:13-41
+activity#com.subg2_3.trueque.Login
+ADDED from C:\OneDrive\Repositorios\AppMovil\MinTic\AppTrueque_E19-3\app\src\main\AndroidManifest.xml:32:9-35:20
+	android:exported
+		ADDED from C:\OneDrive\Repositorios\AppMovil\MinTic\AppTrueque_E19-3\app\src\main\AndroidManifest.xml:34:13-36
+	android:name
+		ADDED from C:\OneDrive\Repositorios\AppMovil\MinTic\AppTrueque_E19-3\app\src\main\AndroidManifest.xml:33:13-34
 uses-sdk
 INJECTED from C:\OneDrive\Repositorios\AppMovil\MinTic\AppTrueque_E19-3\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\OneDrive\Repositorios\AppMovil\MinTic\AppTrueque_E19-3\app\src\main\AndroidManifest.xml

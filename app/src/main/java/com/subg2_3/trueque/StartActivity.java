@@ -24,7 +24,7 @@ public class StartActivity extends AppCompatActivity {
             }
         };
         Timer timeDelay =new Timer();
-        timeDelay.schedule(tarea, 5000);
+        timeDelay.schedule(tarea, 3000);
 
     }
 }
