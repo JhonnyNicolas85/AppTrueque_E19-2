@@ -1,4 +1,8 @@
 com/subg2_3/trueque/BuildConfig.java
  com.subg2_3.trueque.BuildConfig
+com/subg2_3/trueque/CheckIn.java
+ com.subg2_3.trueque.CheckIn
+com/subg2_3/trueque/Login.java
+ com.subg2_3.trueque.Login
 com/subg2_3/trueque/MainActivity.java
  com.subg2_3.trueque.MainActivity
