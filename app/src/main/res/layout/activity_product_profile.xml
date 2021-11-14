@@ -61,6 +61,7 @@
                 android:id="@+id/lblPhone"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:textColor="@color/black"
                 android:text="@string/noPhoneUser" />
 
             <TextView
@@ -68,6 +69,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_below="@id/lblPhone"
+                android:textColor="@color/black"
                 android:text="Ciudad" />
 
             <TextView
@@ -76,6 +78,7 @@
                 android:layout_height="wrap_content"
                 android:layout_toRightOf="@id/lblPhone"
                 android:paddingLeft="10dp"
+                android:textColor="@color/green"
                 android:text="310 123 45 67" />
 
             <TextView
@@ -85,6 +88,7 @@
                 android:layout_below="@id/phone"
                 android:layout_toRightOf="@id/lblCity"
                 android:paddingLeft="10dp"
+                android:textColor="@color/green"
                 android:text="Bogota" />
 
         </RelativeLayout>
