@@ -19,19 +19,109 @@
         tools:layout_editor_absoluteX="0dp"
         tools:layout_editor_absoluteY="67dp">
 
-        <TextView
-            android:id="@+id/product"
+    <TextView
+        android:id="@+id/product"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/info_new_product"
+        android:textAlignment="center"
+        android:textColor="@color/green"
+        android:textSize="20sp"
+        android:paddingBottom="20dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="60dp" />
+
+
+         <EditText
+            android:id="@+id/etName"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/info_new_product"
-            android:textAlignment="center"
-            android:textColor="@color/green"
-            android:textSize="20sp"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintHorizontal_bias="0.497"
-            app:layout_constraintStart_toStartOf="parent"
-            tools:layout_editor_absoluteY="60dp" />
+            android:textColorHint="@color/black"
+            android:layout_margin="10dp"
+            android:background="@color/bg_product"
+            android:padding="10dp"
+            android:hint="Nombre del producto"/>
+
+        <EditText
+            android:id="@+id/etCity"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColorHint="@color/black"
+            android:layout_margin="10dp"
+            android:background="@color/bg_product"
+            android:padding="10dp"
+            android:hint="Ciudad"/>
+
+        <EditText
+            android:id="@+id/etEmail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColorHint="@color/black"
+            android:layout_margin="10dp"
+            android:background="@color/bg_product"
+            android:padding="10dp"
+            android:hint="Correo electrónico"/>
+
+        <EditText
+            android:id="@+id/etPhone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColorHint="@color/black"
+            android:layout_margin="10dp"
+            android:background="@color/bg_product"
+            android:padding="10dp"
+            android:inputType="number"
+            android:hint="Teléfono de contacto"/>
+
+        <EditText
+            android:id="@+id/etDescription"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColorHint="@color/black"
+            android:layout_margin="10dp"
+            android:background="@color/bg_product"
+            android:padding="10dp"
+            android:hint="Descripción"/>
+
+        <Button
+            android:id="@+id/btnSave"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/takePhoto"
+            android:layout_margin="10dp"
+            android:background="@color/green"
+            android:textAllCaps="false"
+            android:textSize="18dp" />
+
 
     </LinearLayout>
+
+    <Button
+        android:id="@+id/btnCancel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:textAllCaps="false"
+        android:textSize="18dp"
+        android:text="@string/btnCancel"
+        android:onClick="goToMain"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/button4"
+        app:layout_constraintHorizontal_bias="0.276"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="36dp"
+        android:layout_marginBottom="16dp"
+        android:textAllCaps="false"
+        android:textSize="18dp"
+        android:text="@string/btnSave"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

@@ -18,4 +18,9 @@ public class Login extends AppCompatActivity {
         Intent intentCheckIn = new Intent(this, CheckIn.class);
         startActivity(intentCheckIn);
     }
+
+    public void goToMain(View view){
+        Intent intentMain = new Intent(this, MainActivity.class);
+        startActivity(intentMain);
+    }
 }

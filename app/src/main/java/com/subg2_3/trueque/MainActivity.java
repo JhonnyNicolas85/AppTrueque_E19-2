@@ -17,4 +17,9 @@ public class MainActivity extends AppCompatActivity {
         Intent intentAdd = new Intent(this, AddActivity.class);
         startActivity(intentAdd);
     }
+
+    public void goToAddProductProfile (View view) {
+        Intent intentPProfile = new Intent(this, ProductProfile.class);
+        startActivity(intentPProfile);
+    }
 }

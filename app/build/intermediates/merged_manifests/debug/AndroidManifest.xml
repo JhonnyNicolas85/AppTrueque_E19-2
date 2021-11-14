@@ -19,6 +19,9 @@
         android:testOnly="true"
         android:theme="@style/Theme.Trueque" >
         <activity
+            android:name="com.subg2_3.trueque.ProductProfile"
+            android:exported="false" />
+        <activity
             android:name="com.subg2_3.trueque.StartActivity"
             android:exported="true" >
             <intent-filter>
@@ -35,12 +38,10 @@
             android:exported="false" />
         <activity
             android:name="com.subg2_3.trueque.MainActivity"
-            android:exported="true" >
-        </activity>
+            android:exported="true" />
         <activity
             android:name="com.subg2_3.trueque.Login"
-            android:exported="true" >
-        </activity>
+            android:exported="true" />
     </application>
 
 </manifest>

@@ -31,5 +31,10 @@
     <string name="av_products">Productos disponibles</string>
     <string name="addProduct">Agregar products</string>
     <string name="info_new_product">Rellena los siguientes campos para agregar un nuevo producto</string>
+    <string name="btn_back">Regresar</string>
+    <string name="noPhoneUser">Teléfono</string>
+    <string name="btnSave">Guardar</string>
+    <string name="btnCancel">Cacelar</string>
+    <string name="takePhoto">Tomar foto del producto</string>
 
 </resources>

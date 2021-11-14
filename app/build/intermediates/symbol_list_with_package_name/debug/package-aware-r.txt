@@ -1845,11 +1845,14 @@ id beginning
 id blocking
 id bottom
 id bounce
+id btnCancel
 id btnClear
 id btnInfo
 id btnMail
 id btnPhone
+id btnSave
 id btnSve
+id button4
 id buttonPanel
 id cache_measures
 id cancel_button
@@ -1868,6 +1871,7 @@ id chip3
 id chip_group
 id chronometer
 id circle_center
+id city
 id clear_text
 id clip_horizontal
 id clip_vertical
@@ -1920,8 +1924,11 @@ id endToStart
 id enterAlways
 id enterAlwaysCollapsed
 id etCity
+id etDescription
+id etEmail
 id etEmailAdress
 id etLastNames
+id etName
 id etPassword
 id etPhone
 id etUser
@@ -1972,6 +1979,8 @@ id jumpToEnd
 id jumpToStart
 id labeled
 id layout
+id lblCity
+id lblPhone
 id left
 id leftToRight
 id line1
@@ -2066,10 +2075,12 @@ id path
 id pathRelative
 id peekHeight
 id percent
+id phone
 id pin
 id position
 id postLayout
 id product
+id productDescription
 id progress_circular
 id progress_horizontal
 id radio
@@ -2282,6 +2293,7 @@ layout activity_add
 layout activity_check_in
 layout activity_login
 layout activity_main
+layout activity_product_profile
 layout activity_start
 layout custom_dialog
 layout design_bottom_navigation_item
@@ -2409,6 +2421,9 @@ string appbar_scrolling_view_behavior
 string av_products
 string bottom_sheet_behavior
 string bottomsheet_action_expand_halfway
+string btnCancel
+string btnSave
+string btn_back
 string character_counter_content_description
 string character_counter_overflowed_content_description
 string character_counter_pattern
@@ -2492,6 +2507,7 @@ string mtrl_picker_toggle_to_day_selection
 string mtrl_picker_toggle_to_text_input_mode
 string mtrl_picker_toggle_to_year_selection
 string names
+string noPhoneUser
 string other_session
 string password
 string password1
@@ -2505,6 +2521,7 @@ string save
 string search_menu_title
 string sig_in
 string status_bar_notification_info_overflow
+string takePhoto
 string telephone
 string title_login
 string title_users
