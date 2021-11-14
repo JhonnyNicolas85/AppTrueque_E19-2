@@ -26,4 +26,6 @@
     <string name="clean">limpiar</string>
     <string name="save">guardar</string>
     <string name="phone">Telefono</string>
+    <string name="more_info">Más información</string>
+
 </resources>

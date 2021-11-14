@@ -999,6 +999,7 @@ color background_floating_material_dark
 color background_floating_material_light
 color background_material_dark
 color background_material_light
+color bg_product
 color black
 color bright_foreground_disabled_material_dark
 color bright_foreground_disabled_material_light
@@ -1059,6 +1060,7 @@ color error_color_material_dark
 color error_color_material_light
 color foreground_material_dark
 color foreground_material_light
+color green
 color highlighted_text_material_dark
 color highlighted_text_material_light
 color ic_launcher_background
@@ -1149,6 +1151,7 @@ color mtrl_textinput_focused_box_stroke_color
 color mtrl_textinput_hovered_box_stroke_color
 color notification_action_color_filter
 color notification_icon_bg_color
+color orange
 color primary_dark_material_dark
 color primary_dark_material_light
 color primary_material_dark
@@ -1180,6 +1183,7 @@ color test_mtrl_calendar_day_selected
 color tooltip_background_dark
 color tooltip_background_light
 color white
+color yellow
 dimen abc_action_bar_content_inset_material
 dimen abc_action_bar_content_inset_with_nav
 dimen abc_action_bar_default_height_material
@@ -1684,6 +1688,7 @@ drawable abc_vector_test
 drawable avd_hide_password
 drawable avd_show_password
 drawable bg_login
+drawable bici
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
 drawable btn_checkbox_unchecked_mtrl
@@ -1697,6 +1702,7 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable desk
 drawable facebook
 drawable google
 drawable ic_add
@@ -1837,6 +1843,9 @@ id blocking
 id bottom
 id bounce
 id btnClear
+id btnInfo
+id btnMail
+id btnPhone
 id btnSve
 id buttonPanel
 id cache_measures
@@ -1925,6 +1934,7 @@ id fitToContents
 id fixed
 id flip
 id floating
+id floatingActionButton4
 id forever
 id fragment_container_view_tag
 id ghost_view
@@ -1965,7 +1975,6 @@ id line3
 id linear
 id linearLayout
 id listMode
-id listViewItems
 id list_item
 id loginBtn
 id masked
@@ -2055,6 +2064,7 @@ id percent
 id pin
 id position
 id postLayout
+id product
 id progress_circular
 id progress_horizontal
 id radio
@@ -2160,7 +2170,6 @@ id textinput_suffix_text
 id time
 id title
 id titleDividerNoCustom
-id titleHome
 id title_template
 id toggle
 id top
@@ -2264,6 +2273,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_add
 layout activity_check_in
 layout activity_login
 layout activity_main
@@ -2435,6 +2445,7 @@ string material_timepicker_minute
 string material_timepicker_pm
 string material_timepicker_select_time
 string material_timepicker_text_input_mode_description
+string more_info
 string mtrl_badge_numberless_content_description
 string mtrl_chip_close_icon_content_description
 string mtrl_exceed_max_badge_number_content_description

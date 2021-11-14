@@ -998,6 +998,7 @@ int color background_floating_material_dark 0x7f05001d
 int color background_floating_material_light 0x7f05001e
 int color background_material_dark 0x7f05001f
 int color background_material_light 0x7f050020
+int color bg_product 0x7f0500d6
 int color black 0x7f050021
 int color bright_foreground_disabled_material_dark 0x7f050022
 int color bright_foreground_disabled_material_light 0x7f050023
@@ -1058,6 +1059,7 @@ int color error_color_material_dark 0x7f050059
 int color error_color_material_light 0x7f05005a
 int color foreground_material_dark 0x7f05005b
 int color foreground_material_light 0x7f05005c
+int color green 0x7f0500d7
 int color highlighted_text_material_dark 0x7f05005d
 int color highlighted_text_material_light 0x7f05005e
 int color ic_launcher_background 0x7f0500d5
@@ -1148,6 +1150,7 @@ int color mtrl_textinput_focused_box_stroke_color 0x7f0500b2
 int color mtrl_textinput_hovered_box_stroke_color 0x7f0500b3
 int color notification_action_color_filter 0x7f0500b4
 int color notification_icon_bg_color 0x7f0500b5
+int color orange 0x7f0500d8
 int color primary_dark_material_dark 0x7f0500b6
 int color primary_dark_material_light 0x7f0500b7
 int color primary_material_dark 0x7f0500b8
@@ -1179,6 +1182,7 @@ int color test_mtrl_calendar_day_selected 0x7f0500d1
 int color tooltip_background_dark 0x7f0500d2
 int color tooltip_background_light 0x7f0500d3
 int color white 0x7f0500d4
+int color yellow 0x7f0500d9
 int dimen abc_action_bar_content_inset_material 0x7f060000
 int dimen abc_action_bar_content_inset_with_nav 0x7f060001
 int dimen abc_action_bar_default_height_material 0x7f060002
@@ -1683,6 +1687,7 @@ int drawable abc_vector_test 0x7f070055
 int drawable avd_hide_password 0x7f070056
 int drawable avd_show_password 0x7f070057
 int drawable bg_login 0x7f070058
+int drawable bici 0x7f07009a
 int drawable btn_checkbox_checked_mtrl 0x7f070059
 int drawable btn_checkbox_checked_to_unchecked_mtrl_animation 0x7f07005a
 int drawable btn_checkbox_unchecked_mtrl 0x7f07005b
@@ -1696,6 +1701,7 @@ int drawable design_ic_visibility 0x7f070062
 int drawable design_ic_visibility_off 0x7f070063
 int drawable design_password_eye 0x7f070064
 int drawable design_snackbar_background 0x7f070065
+int drawable desk 0x7f07009b
 int drawable facebook 0x7f070066
 int drawable google 0x7f070067
 int drawable ic_add 0x7f070068
@@ -1836,6 +1842,9 @@ int id blocking 0x7f080055
 int id bottom 0x7f080056
 int id bounce 0x7f080057
 int id btnClear 0x7f080058
+int id btnInfo 0x7f0801c1
+int id btnMail 0x7f0801c2
+int id btnPhone 0x7f0801c3
 int id btnSve 0x7f080059
 int id buttonPanel 0x7f08005a
 int id cache_measures 0x7f08005b
@@ -1924,6 +1933,7 @@ int id fitToContents 0x7f0800ad
 int id fixed 0x7f0800ae
 int id flip 0x7f0800af
 int id floating 0x7f0800b0
+int id floatingActionButton4 0x7f0801c4
 int id forever 0x7f0800b1
 int id fragment_container_view_tag 0x7f0800b2
 int id ghost_view 0x7f0800b3
@@ -1964,7 +1974,6 @@ int id line3 0x7f0800d5
 int id linear 0x7f0800d6
 int id linearLayout 0x7f0800d7
 int id listMode 0x7f0800d8
-int id listViewItems 0x7f0800d9
 int id list_item 0x7f0800da
 int id loginBtn 0x7f0800db
 int id masked 0x7f0800dc
@@ -2054,6 +2063,7 @@ int id percent 0x7f08012f
 int id pin 0x7f080130
 int id position 0x7f080131
 int id postLayout 0x7f080132
+int id product 0x7f0801c5
 int id progress_circular 0x7f080133
 int id progress_horizontal 0x7f080134
 int id radio 0x7f080135
@@ -2159,7 +2169,6 @@ int id textinput_suffix_text 0x7f080198
 int id time 0x7f080199
 int id title 0x7f08019a
 int id titleDividerNoCustom 0x7f08019b
-int id titleHome 0x7f08019c
 int id title_template 0x7f08019d
 int id toggle 0x7f08019e
 int id top 0x7f08019f
@@ -2263,6 +2272,7 @@ int layout abc_search_dropdown_item_icons_2line 0x7f0b0018
 int layout abc_search_view 0x7f0b0019
 int layout abc_select_dialog_material 0x7f0b001a
 int layout abc_tooltip 0x7f0b001b
+int layout activity_add 0x7f0b0073
 int layout activity_check_in 0x7f0b001c
 int layout activity_login 0x7f0b001d
 int layout activity_main 0x7f0b001e
@@ -2434,6 +2444,7 @@ int string material_timepicker_minute 0x7f0f004b
 int string material_timepicker_pm 0x7f0f004c
 int string material_timepicker_select_time 0x7f0f004d
 int string material_timepicker_text_input_mode_description 0x7f0f004e
+int string more_info 0x7f0f0083
 int string mtrl_badge_numberless_content_description 0x7f0f004f
 int string mtrl_chip_close_icon_content_description 0x7f0f0050
 int string mtrl_exceed_max_badge_number_content_description 0x7f0f0051
