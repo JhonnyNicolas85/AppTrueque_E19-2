@@ -1,9 +1,9 @@
-#Sun Nov 14 14:50:49 COT 2021
-base.2=C\:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\6\\classes.dex
+#Sun Nov 14 16:42:57 COT 2021
+base.2=C\:\\Users\\Joseph\\AppTrueque_E19-3\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\6\\classes.dex
 path.2=6/classes.dex
-base.1=C\:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.1=C\:\\Users\\Joseph\\AppTrueque_E19-3\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 path.1=0/classes.dex
-base.0=C\:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.0=C\:\\Users\\Joseph\\AppTrueque_E19-3\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex

@@ -1,150 +1,154 @@
 [
     {
-        "merged": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_check_in.xml.flat",
-        "source": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\src\\main\\res\\layout\\activity_check_in.xml"
+        "merged": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_login.jpg.flat",
+        "source": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\src\\main\\res\\drawable\\bg_login.jpg"
     },
     {
-        "merged": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+        "merged": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_add.xml.flat",
+        "source": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\src\\main\\res\\layout\\activity_add.xml"
     },
     {
-        "merged": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+        "merged": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_add.xml.flat",
-        "source": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\src\\main\\res\\layout\\activity_add.xml"
+        "merged": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\src\\main\\res\\drawable\\ic_add.xml"
     },
     {
-        "merged": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_start.xml.flat",
-        "source": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\src\\main\\res\\layout\\activity_start.xml"
+        "merged": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_lock_24.xml.flat",
+        "source": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\src\\main\\res\\drawable\\ic_baseline_lock_24.xml"
     },
     {
-        "merged": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+        "merged": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\menu_menu_sup.xml.flat",
-        "source": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\src\\main\\res\\menu\\menu_sup.xml"
+        "merged": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_save.xml.flat",
+        "source": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\src\\main\\res\\drawable\\ic_save.xml"
     },
     {
-        "merged": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_perm_identity_24.xml.flat",
+        "source": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\src\\main\\res\\drawable\\ic_baseline_perm_identity_24.xml"
     },
     {
-        "merged": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\drawable_desk.jpg.flat",
-        "source": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\src\\main\\res\\drawable\\desk.jpg"
+        "merged": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_del.xml.flat",
+        "source": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\src\\main\\res\\drawable\\ic_del.xml"
     },
     {
-        "merged": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\drawable_bici.jpg.flat",
-        "source": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\src\\main\\res\\drawable\\bici.jpg"
+        "merged": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\drawable_facebook.png.flat",
+        "source": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\src\\main\\res\\drawable\\facebook.png"
     },
     {
-        "merged": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_save.xml.flat",
-        "source": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\src\\main\\res\\drawable\\ic_save.xml"
+        "merged": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\drawable_google.png.flat",
+        "source": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\src\\main\\res\\drawable\\google.png"
     },
     {
-        "merged": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\drawable_customborder.xml.flat",
-        "source": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\src\\main\\res\\drawable\\customborder.xml"
+        "merged": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+        "merged": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\drawable_bici.jpg.flat",
+        "source": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\src\\main\\res\\drawable\\bici.jpg"
     },
     {
-        "merged": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_product_profile.xml.flat",
-        "source": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\src\\main\\res\\layout\\activity_product_profile.xml"
+        "merged": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_start.xml.flat",
+        "source": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\src\\main\\res\\layout\\activity_start.xml"
     },
     {
-        "merged": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_login.jpg.flat",
-        "source": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\src\\main\\res\\drawable\\bg_login.jpg"
+        "merged": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_login_1.jpg.flat",
+        "source": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\src\\main\\res\\drawable\\bg_login_1.jpg"
     },
     {
-        "merged": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\menu_menu_sup.xml.flat",
+        "source": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\src\\main\\res\\menu\\menu_sup.xml"
     },
     {
-        "merged": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\drawable_logo.png.flat",
-        "source": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\src\\main\\res\\drawable\\logo.png"
+        "merged": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\drawable_customborder.xml.flat",
+        "source": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\src\\main\\res\\drawable\\customborder.xml"
     },
     {
-        "merged": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_add.xml.flat",
-        "source": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\src\\main\\res\\drawable\\ic_add.xml"
+        "merged": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_product_profile.xml.flat",
+        "source": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\src\\main\\res\\layout\\activity_product_profile.xml"
     },
     {
-        "merged": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_login.xml.flat",
-        "source": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\src\\main\\res\\layout\\activity_login.xml"
+        "merged": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+        "merged": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_del.xml.flat",
-        "source": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\src\\main\\res\\drawable\\ic_del.xml"
+        "merged": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\drawable_google.png.flat",
-        "source": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\src\\main\\res\\drawable\\google.png"
+        "merged": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\src\\main\\res\\layout\\activity_login.xml"
     },
     {
-        "merged": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_lock_24.xml.flat",
-        "source": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\src\\main\\res\\drawable\\ic_baseline_lock_24.xml"
+        "merged": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\drawable_desk.jpg.flat",
+        "source": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\src\\main\\res\\drawable\\desk.jpg"
     },
     {
-        "merged": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_perm_identity_24.xml.flat",
-        "source": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\src\\main\\res\\drawable\\ic_baseline_perm_identity_24.xml"
+        "merged": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\drawable_facebook.png.flat",
-        "source": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\src\\main\\res\\drawable\\facebook.png"
+        "merged": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\drawable_logo.png.flat",
+        "source": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\src\\main\\res\\drawable\\logo.png"
     },
     {
-        "merged": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
-        "source": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_check_in.xml.flat",
+        "source": "C:\\Users\\Joseph\\AppTrueque_E19-3\\app\\src\\main\\res\\layout\\activity_check_in.xml"
     }
 ]

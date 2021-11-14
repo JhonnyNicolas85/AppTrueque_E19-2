@@ -1689,6 +1689,7 @@ drawable abc_vector_test
 drawable avd_hide_password
 drawable avd_show_password
 drawable bg_login
+drawable bg_login_1
 drawable bici
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
@@ -1871,7 +1872,6 @@ id chip3
 id chip_group
 id chronometer
 id circle_center
-id city
 id clear_text
 id clip_horizontal
 id clip_vertical
@@ -1970,6 +1970,7 @@ id image
 id imageView
 id imageView2
 id imageView3
+id imageView4
 id info
 id invisible
 id inward
@@ -1979,8 +1980,6 @@ id jumpToEnd
 id jumpToStart
 id labeled
 id layout
-id lblCity
-id lblPhone
 id left
 id leftToRight
 id line1
@@ -1988,6 +1987,8 @@ id line3
 id linear
 id linearLayout
 id linearLayout2
+id linearLayout3
+id linearLayout4
 id listMode
 id list_item
 id loginBtn
@@ -2075,12 +2076,10 @@ id path
 id pathRelative
 id peekHeight
 id percent
-id phone
 id pin
 id position
 id postLayout
 id product
-id productDescription
 id progress_circular
 id progress_horizontal
 id radio
