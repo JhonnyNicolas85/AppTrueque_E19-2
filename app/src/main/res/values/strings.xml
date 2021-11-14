@@ -30,5 +30,6 @@
     <string name="addproduct">Agregar nuevos productos</string>
     <string name="av_products">Productos disponibles</string>
     <string name="addProduct">Agregar products</string>
+    <string name="info_new_product">Rellena los siguientes campos para agregar un nuevo producto</string>
 
 </resources>
