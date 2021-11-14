@@ -9,6 +9,7 @@
     <color name="white">#FFFFFFFF</color>
 
     <color name="green">#2ca02c</color>
+    <color name="green_c">#7AAC7A</color>
     <color name="orange">#fe751a</color>
     <color name="yellow">#dfbf3b</color>
     <color name="bg_product">#DCDBD7</color>

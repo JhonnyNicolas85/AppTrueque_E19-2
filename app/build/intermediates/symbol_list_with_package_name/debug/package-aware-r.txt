@@ -1061,6 +1061,7 @@ color error_color_material_light
 color foreground_material_dark
 color foreground_material_light
 color green
+color green_c
 color highlighted_text_material_dark
 color highlighted_text_material_light
 color ic_launcher_background
@@ -1961,6 +1962,7 @@ id ignoreRequest
 id image
 id imageView
 id imageView2
+id imageView3
 id info
 id invisible
 id inward
@@ -2280,6 +2282,7 @@ layout activity_add
 layout activity_check_in
 layout activity_login
 layout activity_main
+layout activity_start
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -2430,6 +2433,7 @@ string hint_password
 string hint_phone
 string hint_user_name
 string icon_content_description
+string info_new_product
 string item_view_role_description
 string material_clock_display_divider
 string material_clock_toggle_content_description
