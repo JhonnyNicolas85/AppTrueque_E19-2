@@ -48,16 +48,20 @@
         "source": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_save.xml.flat",
-        "source": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\src\\main\\res\\drawable\\ic_save.xml"
-    },
-    {
         "merged": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\drawable_desk.jpg.flat",
         "source": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\src\\main\\res\\drawable\\desk.jpg"
     },
     {
         "merged": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\drawable_bici.jpg.flat",
         "source": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\src\\main\\res\\drawable\\bici.jpg"
+    },
+    {
+        "merged": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_save.xml.flat",
+        "source": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\src\\main\\res\\drawable\\ic_save.xml"
+    },
+    {
+        "merged": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\drawable_customborder.xml.flat",
+        "source": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\src\\main\\res\\drawable\\customborder.xml"
     },
     {
         "merged": "C:\\OneDrive\\Repositorios\\AppMovil\\MinTic\\AppTrueque_E19-3\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",

@@ -3,7 +3,22 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
+    android:background="@color/white"
+    android:padding="10dp"
     android:layout_height="match_parent"
     tools:context=".AddActivity">
+
+    <LinearLayout
+        android:id="@+id/Linearlayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/customborder"
+        android:orientation="vertical"
+        android:layout_marginTop="5dp"
+        android:padding="5dp"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="67dp">
+
+    </LinearLayout>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

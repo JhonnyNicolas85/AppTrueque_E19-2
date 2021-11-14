@@ -27,5 +27,8 @@
     <string name="save">guardar</string>
     <string name="phone">Telefono</string>
     <string name="more_info">Más información</string>
+    <string name="addproduct">Agregar nuevos productos</string>
+    <string name="av_products">Productos disponibles</string>
+    <string name="addProduct">Agregar products</string>
 
 </resources>

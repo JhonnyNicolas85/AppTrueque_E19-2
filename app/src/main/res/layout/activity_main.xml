@@ -4,16 +4,19 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/white"
+    android:padding="10dp"
     android:scrollbars="vertical"
     tools:context=".MainActivity">
 
     <LinearLayout
+        android:id="@+id/linearLayout2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="@color/bg_product"
+        android:background="@drawable/customborder"
+        android:radius="20dp"
         android:orientation="vertical"
-        android:layout_marginTop="5dp"
-        android:padding="5dp"
+        android:padding="10dp"
         tools:layout_editor_absoluteX="0dp"
         tools:layout_editor_absoluteY="67dp">
 
@@ -22,10 +25,9 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Escritorio de madera"
-            android:textColor="@color/green"
             android:textAlignment="center"
+            android:textColor="@color/green"
             android:textSize="20sp"
-            android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.497"
             app:layout_constraintStart_toStartOf="parent"
@@ -35,7 +37,7 @@
             android:layout_width="match_parent"
             android:layout_height="356dp"
             android:layout_margin="5dp"
-            android:src="@drawable/desk"/>
+            android:src="@drawable/desk" />
 
         <Button
             android:id="@+id/btnPhone"
@@ -50,19 +52,19 @@
             android:id="@+id/btnMail"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:text="email@mail.com"
             android:textAllCaps="false"
             android:textColor="@color/white"
-            android:textSize="18dp"
-            android:text="email@mail.com" />
+            android:textSize="18dp" />
 
         <Button
             android:id="@+id/btnInfo"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:text="@string/more_info"
             android:textAllCaps="false"
             android:textColor="@color/white"
-            android:textSize="18dp"
-            android:text="@string/more_info" />
+            android:textSize="18dp" />
 
     </LinearLayout>
 

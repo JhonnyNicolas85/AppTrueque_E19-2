@@ -1696,6 +1696,7 @@ int drawable btn_radio_off_mtrl 0x7f07005d
 int drawable btn_radio_off_to_on_mtrl_animation 0x7f07005e
 int drawable btn_radio_on_mtrl 0x7f07005f
 int drawable btn_radio_on_to_off_mtrl_animation 0x7f070060
+int drawable customborder 0x7f07009c
 int drawable design_fab_background 0x7f070061
 int drawable design_ic_visibility 0x7f070062
 int drawable design_ic_visibility_off 0x7f070063
@@ -1758,6 +1759,7 @@ int id BOTTOM_END 0x7f080001
 int id BOTTOM_START 0x7f080002
 int id CTRL 0x7f080003
 int id FUNCTION 0x7f080004
+int id Linearlayout1 0x7f0801cc
 int id META 0x7f080005
 int id NO_DEBUG 0x7f080006
 int id SHIFT 0x7f080007
@@ -1973,6 +1975,7 @@ int id line1 0x7f0800d4
 int id line3 0x7f0800d5
 int id linear 0x7f0800d6
 int id linearLayout 0x7f0800d7
+int id linearLayout2 0x7f0801cb
 int id listMode 0x7f0800d8
 int id list_item 0x7f0800da
 int id loginBtn 0x7f0800db
@@ -2395,8 +2398,11 @@ int string abc_searchview_description_voice 0x7f0f001a
 int string abc_shareactionprovider_share_with 0x7f0f001b
 int string abc_shareactionprovider_share_with_application 0x7f0f001c
 int string abc_toolbar_collapse_description 0x7f0f001d
+int string addProduct 0x7f0f0086
+int string addproduct 0x7f0f0084
 int string app_name 0x7f0f001e
 int string appbar_scrolling_view_behavior 0x7f0f001f
+int string av_products 0x7f0f0085
 int string bottom_sheet_behavior 0x7f0f0020
 int string bottomsheet_action_expand_halfway 0x7f0f0021
 int string character_counter_content_description 0x7f0f0022

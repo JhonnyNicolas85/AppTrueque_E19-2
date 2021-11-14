@@ -1697,6 +1697,7 @@ drawable btn_radio_off_mtrl
 drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
+drawable customborder
 drawable design_fab_background
 drawable design_ic_visibility
 drawable design_ic_visibility_off
@@ -1759,6 +1760,7 @@ id BOTTOM_END
 id BOTTOM_START
 id CTRL
 id FUNCTION
+id Linearlayout1
 id META
 id NO_DEBUG
 id SHIFT
@@ -1974,6 +1976,7 @@ id line1
 id line3
 id linear
 id linearLayout
+id linearLayout2
 id listMode
 id list_item
 id loginBtn
@@ -2396,8 +2399,11 @@ string abc_searchview_description_voice
 string abc_shareactionprovider_share_with
 string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
+string addProduct
+string addproduct
 string app_name
 string appbar_scrolling_view_behavior
+string av_products
 string bottom_sheet_behavior
 string bottomsheet_action_expand_halfway
 string character_counter_content_description
