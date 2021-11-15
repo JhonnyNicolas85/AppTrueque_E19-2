@@ -22,4 +22,8 @@ public class MainActivity extends AppCompatActivity {
         Intent intentPProfile = new Intent(this, ProductProfile.class);
         startActivity(intentPProfile);
     }
+    public void goToMain(View view){
+        Intent intentMain = new Intent(this, MainActivity.class);
+        startActivity(intentMain);
+    }
 }

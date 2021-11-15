@@ -14,7 +14,7 @@ public class ProductProfile extends AppCompatActivity {
         setContentView(R.layout.activity_product_profile);
     }
 
-    public void backToMain(View view){
+    public void goToMain(View view){
         Intent intentMain = new Intent(this, MainActivity.class);
         startActivity(intentMain);
     }

@@ -1706,6 +1706,7 @@ drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
 drawable desk
+drawable desk_png
 drawable facebook
 drawable google
 drawable ic_add
@@ -1971,6 +1972,7 @@ id imageView
 id imageView2
 id imageView3
 id imageView4
+id imageView6
 id info
 id invisible
 id inward
@@ -2173,6 +2175,8 @@ id textSpacerNoTitle
 id textStart
 id textTop
 id textView
+id textView2
+id textView3
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
@@ -2432,6 +2436,8 @@ string city
 string city1
 string clean
 string clear_text_end_icon_content_description
+string contactar
+string descritption_1
 string email
 string email_Adress
 string error_icon_content_description
@@ -2524,6 +2530,7 @@ string takePhoto
 string telephone
 string title_login
 string title_users
+string titulo_publicacion
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style AndroidThemeColorAccentYellow

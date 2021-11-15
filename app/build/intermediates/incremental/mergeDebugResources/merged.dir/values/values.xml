@@ -1139,6 +1139,8 @@
     <string name="city1">Digite su ciudad</string>
     <string name="clean">limpiar</string>
     <string name="clear_text_end_icon_content_description">Clear text</string>
+    <string name="contactar">contactar</string>
+    <string name="descritption_1">Escritorio En perfecto estado, deseo intercambairlo por una computadora o una consola de videojuegos, cuenta con 2 cajones muy amplios.</string>
     <string name="email">Email</string>
     <string name="email_Adress">Digite su Email</string>
     <string name="error_icon_content_description">Error</string>
@@ -1231,6 +1233,7 @@
     <string name="telephone">Digite su telefono</string>
     <string name="title_login">Iniciar Sesión</string>
     <string name="title_users">Publicaciones</string>
+    <string name="titulo_publicacion">Escritorio de madera</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="AndroidThemeColorAccentYellow" ns1:ignore="NewApi">

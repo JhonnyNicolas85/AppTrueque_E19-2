@@ -24,7 +24,7 @@
             android:id="@+id/product"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Escritorio de madera"
+            android:text="@string/titulo_publicacion"
             android:textAlignment="center"
             android:textColor="@color/green"
             android:textSize="20sp"

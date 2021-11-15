@@ -36,5 +36,8 @@
     <string name="btnSave">Guardar</string>
     <string name="btnCancel">Cacelar</string>
     <string name="takePhoto">Tomar foto del producto</string>
+    <string name="titulo_publicacion">Escritorio de madera</string>
+    <string name="descritption_1">Escritorio En perfecto estado, deseo intercambairlo por una computadora o una consola de videojuegos, cuenta con 2 cajones muy amplios.</string>
+    <string name="contactar">contactar</string>
 
 </resources>
