@@ -34,10 +34,25 @@
     <string name="btn_back">Regresar</string>
     <string name="noPhoneUser">Teléfono</string>
     <string name="btnSave">Guardar</string>
-    <string name="btnCancel">Cacelar</string>
+    <string name="btnCancel">Cancelar</string>
     <string name="takePhoto">Tomar foto del producto</string>
     <string name="titulo_publicacion">Escritorio de madera</string>
     <string name="descritption_1">Escritorio En perfecto estado, deseo intercambairlo por una computadora o una consola de videojuegos, cuenta con 2 cajones muy amplios.</string>
     <string name="contactar">contactar</string>
+
+    <!-->Activity_Checkin-->
+    <string name="Check_Name">Nombre:</string>
+    <string name="Check_City">Ciudad:</string>
+    <string name="Check_Telephone">Teléfono:</string>
+    <string name="Check_Email">Email:</string>
+    <string name="Check_Password">Contraseña:</string>
+    <string name="Check_RepeatPassword">Repetir Contraseña:</string>
+
+    <string name ="Check_Edit_Name_hint">Digite su nombre completo</string>
+    <string name ="Check_Edit_City_hint">Digite su ciudad</string>
+    <string name ="Check_Edit_Telephone_hint">Digite su teléfono</string>
+    <string name ="Check_Edit_Email_hint">Digite su email</string>
+    <string name ="Check_Edit_Password_hint">Digite su Contraseña</string>
+    <string name ="Check_Edit_RepeatPassword_hint">Repita su contraseña</string>
 
 </resources>

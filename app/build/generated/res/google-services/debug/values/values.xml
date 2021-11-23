@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">373036389620-6s758494i4pvukg6bo3umc7qq7isq056.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">373036389620</string>
+    <string name="google_api_key" translatable="false">AIzaSyCKbdJWQ5n4fVRDQXuTU-aZ1byox9GvIww</string>
+    <string name="google_app_id" translatable="false">1:373036389620:android:1e67bca00afca4f1ef3aa1</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCKbdJWQ5n4fVRDQXuTU-aZ1byox9GvIww</string>
+    <string name="google_storage_bucket" translatable="false">truequeapp-c73ad.appspot.com</string>
+    <string name="project_id" translatable="false">truequeapp-c73ad</string>
+</resources>

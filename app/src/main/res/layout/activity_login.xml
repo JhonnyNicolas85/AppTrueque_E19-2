@@ -19,16 +19,6 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.001">
 
-        <TextView
-            android:id="@+id/tvLogin"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_margin="10dp"
-            android:fontFamily="sans-serif-black"
-            android:text="@string/title_login"
-            android:textAlignment="center"
-            android:textColor="@color/black"
-            android:textSize="60sp" />
     </LinearLayout>
 
     <LinearLayout
@@ -106,6 +96,8 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="12dp"
         android:onClick="goToMain"
+        android:backgroundTint="@color/secondaryColor"
+        android:textColor="@color/primaryTextColor"
         android:text="@string/sig_in"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
