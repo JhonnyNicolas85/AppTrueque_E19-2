@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/green_c"
+    android:background="@color/primaryColor"
     android:onClick="goToMain"
     android:padding="10dp"
     android:scrollbars="vertical"
@@ -64,9 +64,10 @@
                 android:layout_height="wrap_content"
                 android:layout_marginEnd="5dp"
                 android:layout_weight="1"
-                android:backgroundTint="@color/green"
+                android:backgroundTint="@color/secondaryColor"
                 android:fontFamily="sans-serif-medium"
                 android:onClick="goToMain"
+                android:textColor="@color/white"
                 android:text="@string/btn_back"
                 app:strokeColor="@color/black" />
 
@@ -76,7 +77,8 @@
                 android:layout_height="wrap_content"
                 android:layout_marginStart="50dp"
                 android:layout_weight="1"
-                android:backgroundTint="@color/green"
+                android:textColor="@color/white"
+                android:backgroundTint="@color/secondaryColor"
                 android:text="@string/contactar" />
         </LinearLayout>
 

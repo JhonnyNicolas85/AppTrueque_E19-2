@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "373036389620",
+    "project_id": "truequeapp-c73ad",
+    "storage_bucket": "truequeapp-c73ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373036389620:android:1e67bca00afca4f1ef3aa1",
+        "android_client_info": {
+          "package_name": "com.subg2_3.trueque"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373036389620-6s758494i4pvukg6bo3umc7qq7isq056.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKbdJWQ5n4fVRDQXuTU-aZ1byox9GvIww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373036389620-6s758494i4pvukg6bo3umc7qq7isq056.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

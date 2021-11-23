@@ -3,94 +3,97 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:background="@color/green_c"
-    android:padding="10dp"
     android:layout_height="match_parent"
+    android:background="@color/primaryColor"
+    android:padding="10dp"
+    android:scrollbars="vertical"
     tools:context=".AddActivity">
 
     <LinearLayout
         android:id="@+id/Linearlayout1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="@color/white"
-        android:orientation="vertical"
         android:layout_marginTop="5dp"
+        android:background="@color/primaryColor"
+        android:orientation="vertical"
         android:padding="5dp"
         tools:layout_editor_absoluteX="0dp"
         tools:layout_editor_absoluteY="67dp">
 
-    <TextView
-        android:id="@+id/product"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/info_new_product"
-        android:textAlignment="center"
-        android:textColor="@color/green"
-        android:textSize="20sp"
-        android:paddingBottom="20dp"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.497"
-        app:layout_constraintStart_toStartOf="parent"
-        tools:layout_editor_absoluteY="60dp" />
+        <TextView
+            android:id="@+id/product"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/primaryColor"
+            android:paddingBottom="20dp"
+            android:text="@string/info_new_product"
+            android:textAlignment="center"
+            android:textColor="@color/secondaryTextColor"
+            android:textSize="20sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.497"
+            app:layout_constraintStart_toStartOf="parent"
+            tools:layout_editor_absoluteY="60dp" />
 
 
-         <EditText
+        <EditText
             android:id="@+id/etName"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:textColorHint="@color/black"
             android:layout_margin="10dp"
             android:background="@color/bg_product"
+            android:hint="Nombre del producto"
             android:padding="10dp"
-            android:hint="Nombre del producto"/>
+            android:textColorHint="@color/ColorHint" />
 
         <EditText
             android:id="@+id/etCity"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:textColorHint="@color/black"
             android:layout_margin="10dp"
             android:background="@color/bg_product"
+            android:hint="Ciudad"
             android:padding="10dp"
-            android:hint="Ciudad"/>
+            android:textColorHint="@color/ColorHint" />
 
         <EditText
             android:id="@+id/etEmail"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:textColorHint="@color/black"
             android:layout_margin="10dp"
             android:background="@color/bg_product"
+            android:hint="Correo electrónico"
             android:padding="10dp"
-            android:hint="Correo electrónico"/>
+            android:textColorHint="@color/ColorHint" />
 
         <EditText
             android:id="@+id/etPhone"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:textColorHint="@color/black"
             android:layout_margin="10dp"
             android:background="@color/bg_product"
-            android:padding="10dp"
+            android:hint="Teléfono de contacto"
             android:inputType="number"
-            android:hint="Teléfono de contacto"/>
+            android:padding="10dp"
+            android:textColorHint="@color/ColorHint" />
 
         <EditText
             android:id="@+id/etDescription"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:textColorHint="@color/black"
             android:layout_margin="10dp"
             android:background="@color/bg_product"
+            android:hint="Descripción"
             android:padding="10dp"
-            android:hint="Descripción"/>
+            android:textColorHint="@color/ColorHint" />
 
         <Button
             android:id="@+id/btnSave"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/takePhoto"
             android:layout_margin="10dp"
+            android:backgroundTint="@color/secondaryColor"
+            android:text="@string/takePhoto"
             android:textAllCaps="false"
             android:textColor="@color/white"
             android:textSize="18dp" />
@@ -102,27 +105,29 @@
         android:id="@+id/btnCancel"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="16dp"
-        android:textAllCaps="false"
-        android:textSize="18dp"
-        android:text="@string/btnCancel"
+        android:layout_marginBottom="4dp"
+        android:backgroundTint="@color/secondaryColor"
         android:onClick="goToMain"
+        android:text="@string/btnCancel"
+        android:textAllCaps="false"
         android:textColor="@color/white"
+        android:textSize="18dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@+id/button4"
-        app:layout_constraintHorizontal_bias="0.276"
+        app:layout_constraintHorizontal_bias="0.373"
         app:layout_constraintStart_toStartOf="parent" />
 
     <Button
         android:id="@+id/button4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginEnd="36dp"
-        android:layout_marginBottom="16dp"
-        android:textAllCaps="false"
-        android:textSize="18dp"
+        android:layout_marginEnd="40dp"
+        android:layout_marginBottom="4dp"
+        android:backgroundTint="@color/secondaryColor"
         android:text="@string/btnSave"
+        android:textAllCaps="false"
         android:textColor="@color/white"
+        android:textSize="18dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />
 
