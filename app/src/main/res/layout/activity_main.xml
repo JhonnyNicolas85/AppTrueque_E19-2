@@ -54,10 +54,10 @@
             android:id="@+id/btnMail"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:backgroundTint="@color/secondaryColor"
             android:text="email@mail.com"
             android:textAllCaps="false"
             android:textColor="@color/white"
-            android:backgroundTint="@color/secondaryColor"
             android:textSize="18dp" />
 
         <Button
