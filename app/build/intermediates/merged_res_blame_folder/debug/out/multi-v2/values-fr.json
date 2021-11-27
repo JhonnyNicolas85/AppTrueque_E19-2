@@ -74,7 +74,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Joseph\\.gradle\\caches\\transforms-3\\e0a06e1db4d4e2db64a90134643f665b\\transformed\\jetified-play-services-basement-17.0.0\\res\\values-fr\\values.xml",
+                    "source": "C:\\Users\\Joseph\\.gradle\\caches\\transforms-3\\2f60e652d28c97ee83adc81cc294019c\\transformed\\jetified-play-services-basement-17.1.0\\res\\values-fr\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
