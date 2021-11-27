@@ -13,9 +13,9 @@
   <component name="ChangeListManager">
     <list default="true" id="1bf52162-8b5f-4010-8a0b-d8b4c75e0c1f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Hemos_realizado_los_cambios_de_Color_y_forma_seleccionados__teniendo_en_cuenta_los_colores.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Hemos_realizado_los_cambios_de_Color_y_forma_seleccionados__teniendo_en_cuenta_los_colores.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/local.properties" beforeDir="false" afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_check_in.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_check_in.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
     </list>
     <list id="460bd0bb-8b18-4f8a-97cc-6be836ad81b7" name="Hemos realizado los cambios de Color y forma seleccionados, teniendo en cuenta los colores tomados de la reunión y por supuesto, algunos cambios de forma y fondo a la aplicación como tal." comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -96,7 +96,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="ignore.virus.scanning.warn.message" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Desktop/AppTrueque_E19-3-main" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">

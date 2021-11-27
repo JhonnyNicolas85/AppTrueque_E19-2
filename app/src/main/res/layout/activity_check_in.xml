@@ -9,20 +9,22 @@
 
     <LinearLayout
         android:id="@+id/Linearlayout3"
-        android:layout_width="392dp"
+        android:layout_width="match_parent"
         android:layout_height="460dp"
         android:background="@color/primaryColor"
         android:orientation="vertical"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.25"
-        tools:layout_editor_absoluteX="9dp">
+        tools:layout_editor_absoluteX="9dp"
+        android:padding="10dp">
 
         <FrameLayout
             android:layout_width="match_parent"
             android:layout_height="60dp"
             android:paddingLeft="130dp"
-            android:paddingTop="10dp">
+            android:paddingTop="10dp"
+            android:layout_marginTop="20dp">
 
             <TextView
                 android:id="@+id/Registro"
@@ -41,115 +43,8 @@
         <LinearLayout
             android:layout_width="385dp"
             android:layout_height="60dp"
-            android:orientation="horizontal">
-
-            <FrameLayout
-                android:layout_width="110dp"
-                android:layout_height="wrap_content"
-                android:paddingLeft="30dp"
-                android:paddingTop="20dp">
-
-                <TextView
-                    android:id="@+id/textView1"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_weight="1"
-                    android:text="@string/Check_Name"
-                    android:textAlignment="viewEnd"
-                    android:textAllCaps="false"
-                    android:textSize="20sp"
-                    android:textStyle="bold" />
-            </FrameLayout>
-
-            <EditText
-                android:id="@+id/etName1"
-                android:layout_width="230dp"
-                android:layout_height="wrap_content"
-                android:layout_margin="10dp"
-                android:layout_weight="1"
-                android:background="@color/bg_product"
-                android:hint="@string/Check_Edit_Name_hint"
-                android:padding="10dp"
-                android:textColorHint="@color/ColorHint" />
-
-        </LinearLayout>
-
-        <LinearLayout
-            android:layout_width="385dp"
-            android:layout_height="60dp"
-            android:orientation="horizontal">
-
-            <FrameLayout
-                android:layout_width="110dp"
-                android:layout_height="wrap_content"
-                android:paddingLeft="40dp"
-                android:paddingTop="20dp">
-
-                <TextView
-                    android:id="@+id/textView2"
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_weight="1"
-                    android:text="@string/Check_City"
-                    android:textAlignment="viewEnd"
-                    android:textAllCaps="false"
-                    android:textSize="20sp"
-                    android:textStyle="bold" />
-            </FrameLayout>
-
-            <EditText
-                android:id="@+id/etName2"
-                android:layout_width="230dp"
-                android:layout_height="wrap_content"
-                android:layout_margin="10dp"
-                android:layout_weight="1"
-                android:background="@color/bg_product"
-                android:hint="@string/Check_Edit_City_hint"
-                android:padding="10dp"
-                android:textColorHint="@color/ColorHint" />
-
-        </LinearLayout>
-
-        <LinearLayout
-            android:layout_width="385dp"
-            android:layout_height="60dp"
-            android:orientation="horizontal">
-
-            <FrameLayout
-                android:layout_width="110dp"
-                android:layout_height="wrap_content"
-                android:paddingLeft="5dp"
-                android:paddingTop="20dp">
-
-                <TextView
-                    android:id="@+id/textView3"
-                    android:layout_width="104dp"
-                    android:layout_height="wrap_content"
-                    android:layout_weight="1"
-                    android:text="@string/Check_Telephone"
-                    android:textAlignment="viewEnd"
-                    android:textAllCaps="false"
-                    android:textSize="20sp"
-                    android:textStyle="bold" />
-            </FrameLayout>
-
-            <EditText
-                android:id="@+id/etName3"
-                android:layout_width="230dp"
-                android:layout_height="wrap_content"
-                android:layout_margin="10dp"
-                android:layout_weight="1"
-                android:background="@color/bg_product"
-                android:hint="@string/Check_Edit_Telephone_hint"
-                android:padding="10dp"
-                android:textColorHint="@color/ColorHint" />
-
-        </LinearLayout>
-
-        <LinearLayout
-            android:layout_width="385dp"
-            android:layout_height="60dp"
-            android:orientation="horizontal">
+            android:orientation="horizontal"
+            android:layout_marginTop="10dp">
 
             <FrameLayout
                 android:layout_width="110dp"
@@ -170,7 +65,7 @@
             </FrameLayout>
 
             <EditText
-                android:id="@+id/etName4"
+                android:id="@+id/etEmail"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_margin="10dp"
@@ -185,7 +80,8 @@
         <LinearLayout
             android:layout_width="380dp"
             android:layout_height="60dp"
-            android:orientation="horizontal">
+            android:orientation="horizontal"
+            android:layout_marginTop="10dp">
 
             <FrameLayout
                 android:layout_width="110dp"
@@ -205,7 +101,7 @@
             </FrameLayout>
 
             <EditText
-                android:id="@+id/etName5"
+                android:id="@+id/etPass"
                 android:layout_width="248dp"
                 android:layout_height="wrap_content"
                 android:layout_margin="10dp"
@@ -220,7 +116,8 @@
         <LinearLayout
             android:layout_width="380dp"
             android:layout_height="60dp"
-            android:orientation="horizontal">
+            android:orientation="horizontal"
+            android:layout_marginTop="10dp">
 
             <FrameLayout
                 android:layout_width="110dp"
@@ -239,7 +136,7 @@
             </FrameLayout>
 
             <EditText
-                android:id="@+id/etName6"
+                android:id="@+id/etPass2"
                 android:layout_width="271dp"
                 android:layout_height="wrap_content"
                 android:layout_margin="10dp"
@@ -250,12 +147,86 @@
                 android:textColorHint="@color/ColorHint" />
         </LinearLayout>
 
+        <LinearLayout
+            android:layout_width="385dp"
+            android:layout_height="60dp"
+            android:orientation="horizontal"
+            android:layout_marginTop="10dp">
+
+            <FrameLayout
+                android:layout_width="110dp"
+                android:layout_height="wrap_content"
+                android:paddingLeft="30dp"
+                android:paddingTop="20dp">
+
+                <TextView
+                    android:id="@+id/textView1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/Check_Name"
+                    android:textAlignment="viewEnd"
+                    android:textAllCaps="false"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+            </FrameLayout>
+
+            <EditText
+                android:id="@+id/etName"
+                android:layout_width="230dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:layout_weight="1"
+                android:background="@color/bg_product"
+                android:hint="@string/Check_Edit_Name_hint"
+                android:padding="10dp"
+                android:textColorHint="@color/ColorHint" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="385dp"
+            android:layout_height="60dp"
+            android:orientation="horizontal"
+            android:layout_marginTop="10dp">
+
+            <FrameLayout
+                android:layout_width="110dp"
+                android:layout_height="wrap_content"
+                android:paddingLeft="5dp"
+                android:paddingTop="20dp">
+
+                <TextView
+                    android:id="@+id/textView3"
+                    android:layout_width="104dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="@string/Check_Telephone"
+                    android:textAlignment="viewEnd"
+                    android:textAllCaps="false"
+                    android:textSize="20sp"
+                    android:textStyle="bold" />
+            </FrameLayout>
+
+            <EditText
+                android:id="@+id/etPhone"
+                android:layout_width="230dp"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:layout_weight="1"
+                android:background="@color/bg_product"
+                android:hint="@string/Check_Edit_Telephone_hint"
+                android:padding="10dp"
+                android:textColorHint="@color/ColorHint" />
+
+        </LinearLayout>
+
     </LinearLayout>
 
     <Button
         android:id="@+id/button1"
-        android:layout_width="120dp"
-        android:layout_height="46dp"
+        android:layout_width="143dp"
+        android:layout_height="50dp"
         android:layout_marginStart="60dp"
         android:layout_marginBottom="36dp"
         android:backgroundTint="@color/secondaryColor"
@@ -265,17 +236,17 @@
         android:textColor="@color/white"
         android:textSize="18dp"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toStartOf="@+id/button2"
+        app:layout_constraintEnd_toStartOf="@+id/btnRegister"
         app:layout_constraintHorizontal_bias="0.036"
         app:layout_constraintStart_toStartOf="parent" />
 
     <Button
-        android:id="@+id/button2"
-        android:layout_width="120dp"
-        android:layout_height="46dp"
-        android:layout_marginEnd="64dp"
+        android:id="@+id/btnRegister"
+        android:layout_width="143dp"
+        android:layout_height="50dp"
+        android:layout_marginEnd="32dp"
         android:backgroundTint="@color/secondaryColor"
-        android:text="@string/btnSave"
+        android:text="@string/btnRegister"
         android:textAllCaps="false"
         android:textColor="@color/white"
         android:textSize="18dp"

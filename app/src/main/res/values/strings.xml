@@ -47,6 +47,7 @@
     <string name="Check_Email">Email:</string>
     <string name="Check_Password">Contraseña:</string>
     <string name="Check_RepeatPassword">Repetir Contraseña:</string>
+    <string name="btnRegister">Registrarse</string>
 
     <string name ="Check_Edit_Name_hint">Digite su nombre completo</string>
     <string name ="Check_Edit_City_hint">Digite su ciudad</string>
