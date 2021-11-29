@@ -2151,6 +2151,7 @@ id notification_background
 id notification_main_column
 id notification_main_column_container
 id off
+id ok_no_inicio
 id on
 id outline
 id outward
@@ -2447,6 +2448,7 @@ layout mtrl_picker_header_title_text
 layout mtrl_picker_header_toggle
 layout mtrl_picker_text_input_date
 layout mtrl_picker_text_input_date_range
+layout no_sesion
 layout notification_action
 layout notification_action_tombstone
 layout notification_template_custom_big
@@ -2492,6 +2494,7 @@ string Check_Telephone
 string Last_names
 string Names
 string Names1
+string NoInicio
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description
@@ -2530,6 +2533,7 @@ string btnCancel
 string btnRegister
 string btnSave
 string btn_back
+string cerrar_sessi_n
 string character_counter_content_description
 string character_counter_overflowed_content_description
 string character_counter_pattern
@@ -2640,6 +2644,7 @@ string mtrl_picker_toggle_to_text_input_mode
 string mtrl_picker_toggle_to_year_selection
 string names
 string noPhoneUser
+string ok_no_inicio
 string other_session
 string password
 string password1

@@ -12,6 +12,10 @@ com/subg2_3/trueque/CheckIn.java
  com.subg2_3.trueque.CheckIn$3
 com/subg2_3/trueque/Login.java
  com.subg2_3.trueque.Login
+ com.subg2_3.trueque.Login$1
+ com.subg2_3.trueque.Login$2
+ com.subg2_3.trueque.Login$3
+ com.subg2_3.trueque.Login$4
 com/subg2_3/trueque/AddActivity.java
  com.subg2_3.trueque.AddActivity
 com/subg2_3/trueque/MainActivity.java

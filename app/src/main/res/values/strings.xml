@@ -4,7 +4,7 @@
     <string name="title_users">Publicaciones</string>
     <string name="sig_in">Ingresar</string>
     <string name="hint_password">Ingrese su contraseña</string>
-    <string name="hint_user_name">Nombre de usuario</string>
+    <string name="hint_user_name">Correo electronico</string>
     <string name="check_in">¿No tienes una cuenta?</string>
     <string name="other_session">Iniciar sesión con:</string>
     <string name="form_registro">REGISTRO</string>
@@ -55,5 +55,10 @@
     <string name ="Check_Edit_Email_hint">Digite su email</string>
     <string name ="Check_Edit_Password_hint">Digite su Contraseña</string>
     <string name ="Check_Edit_RepeatPassword_hint">Repita su contraseña</string>
+
+    <!-- string del login-->
+    <string name="NoInicio">No pudo iniciar sesión, intente nuevamente (Revise el correo y la contraseña)</string>
+    <string name="ok_no_inicio">Ententido</string>
+    <string name="cerrar_sessi_n">Cerrar sessión</string>
 
 </resources>
