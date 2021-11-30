@@ -20,3 +20,4 @@ com/subg2_3/trueque/AddActivity.java
  com.subg2_3.trueque.AddActivity
 com/subg2_3/trueque/MainActivity.java
  com.subg2_3.trueque.MainActivity
+ com.subg2_3.trueque.MainActivity$1

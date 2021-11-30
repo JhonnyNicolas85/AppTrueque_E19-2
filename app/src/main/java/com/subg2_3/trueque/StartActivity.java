@@ -14,11 +14,12 @@ public class StartActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_start);
-
+//Cambio la pantalla de inicio por la main activity, ya que en esta esta la condicion de si ya inicio
+//sesión o no
         TimerTask tarea = new TimerTask() {
             @Override
             public void run() {
-                Intent intent = new Intent(StartActivity.this,Login.class );
+                Intent intent = new Intent(StartActivity.this, MainActivity.class );
                 startActivity(intent);
                 finish();
             }

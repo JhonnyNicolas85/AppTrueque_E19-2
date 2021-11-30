@@ -1834,6 +1834,7 @@ id ALT
 id BOTTOM_END
 id BOTTOM_START
 id CTRL
+id CerrarSesion
 id FUNCTION
 id Linearlayout1
 id Linearlayout3
