@@ -13,7 +13,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1bf52162-8b5f-4010-8a0b-d8b4c75e0c1f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
     </list>
     <list id="460bd0bb-8b18-4f8a-97cc-6be836ad81b7" name="Hemos realizado los cambios de Color y forma seleccionados, teniendo en cuenta los colores tomados de la reunión y por supuesto, algunos cambios de forma y fondo a la aplicación como tal." comment="" />
     <option name="SHOW_DIALOG" value="false" />
