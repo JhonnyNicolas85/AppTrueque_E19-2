@@ -2055,13 +2055,12 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
-id imageView
-id imageView2
 id imageView3
 id imageView4
 id imageView5
 id imageView6
 id info
+id ingresargoogle
 id invisible
 id inward
 id italic
@@ -2296,7 +2295,6 @@ id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
 id triangle
-id tvOtherSession
 id unchecked
 id uniform
 id unlabeled
@@ -2586,6 +2584,7 @@ string hint_phone
 string hint_user_name
 string icon_content_description
 string info_new_product
+string iniciargoogle
 string item_view_role_description
 string material_clock_display_divider
 string material_clock_toggle_content_description

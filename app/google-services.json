@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "373036389620",
+    "firebase_url": "https://truequeapp-c73ad-default-rtdb.firebaseio.com",
     "project_id": "truequeapp-c73ad",
     "storage_bucket": "truequeapp-c73ad.appspot.com"
   },
@@ -13,6 +14,14 @@
         }
       },
       "oauth_client": [
+        {
+          "client_id": "373036389620-re698nkhbophqud5gn1cs4rk69i3r0mv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.subg2_3.trueque",
+            "certificate_hash": "f1b60a958532d5d1a3901de71d1f7a2a41eaa678"
+          }
+        },
         {
           "client_id": "373036389620-6s758494i4pvukg6bo3umc7qq7isq056.apps.googleusercontent.com",
           "client_type": 3

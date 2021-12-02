@@ -1222,6 +1222,7 @@
     <string name="hint_user_name">Correo electronico</string>
     <string description="Content description for an icon that appears in the title area of a dialog" name="icon_content_description">Dialog Icon</string>
     <string name="info_new_product">Rellena los siguientes campos para agregar un nuevo producto</string>
+    <string name="iniciargoogle">Iniciar sesión con Google</string>
     <string name="item_view_role_description">Tab</string>
     <string name="material_clock_display_divider" translatable="false">:</string>
     <string description="Description for the toggle to choose between AM and PM [CHAR_LIMIT=NONE] " name="material_clock_toggle_content_description">Select AM or PM</string>
