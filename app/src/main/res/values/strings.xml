@@ -60,5 +60,6 @@
     <string name="NoInicio">No pudo iniciar sesión, intente nuevamente (Revise el correo y la contraseña)</string>
     <string name="ok_no_inicio">Ententido</string>
     <string name="cerrar_sessi_n">Cerrar sessión</string>
+    <string name="iniciargoogle">Iniciar sesión con Google</string>
 
 </resources>
