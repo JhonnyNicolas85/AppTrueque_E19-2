@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\Jhonny Martinez\\OneDrive - ucentral.edu.co\\Escritorio\\AppTrueque_E19-3\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_check_in.xml",
+        "source": "C:\\Users\\Jhonny Martinez\\OneDrive - ucentral.edu.co\\Escritorio\\AppTrueque_E19-3\\app\\src\\main\\res\\layout\\activity_check_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jhonny Martinez\\OneDrive - ucentral.edu.co\\Escritorio\\AppTrueque_E19-3\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_start.xml",
+        "source": "C:\\Users\\Jhonny Martinez\\OneDrive - ucentral.edu.co\\Escritorio\\AppTrueque_E19-3\\app\\src\\main\\res\\layout\\activity_start.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jhonny Martinez\\OneDrive - ucentral.edu.co\\Escritorio\\AppTrueque_E19-3\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_add.xml",
+        "source": "C:\\Users\\Jhonny Martinez\\OneDrive - ucentral.edu.co\\Escritorio\\AppTrueque_E19-3\\app\\src\\main\\res\\layout\\activity_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jhonny Martinez\\OneDrive - ucentral.edu.co\\Escritorio\\AppTrueque_E19-3\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_profileperson.xml",
+        "source": "C:\\Users\\Jhonny Martinez\\OneDrive - ucentral.edu.co\\Escritorio\\AppTrueque_E19-3\\app\\src\\main\\res\\layout\\activity_profileperson.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jhonny Martinez\\OneDrive - ucentral.edu.co\\Escritorio\\AppTrueque_E19-3\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\no_sesion.xml",
+        "source": "C:\\Users\\Jhonny Martinez\\OneDrive - ucentral.edu.co\\Escritorio\\AppTrueque_E19-3\\app\\src\\main\\res\\layout\\no_sesion.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jhonny Martinez\\OneDrive - ucentral.edu.co\\Escritorio\\AppTrueque_E19-3\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Jhonny Martinez\\OneDrive - ucentral.edu.co\\Escritorio\\AppTrueque_E19-3\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jhonny Martinez\\OneDrive - ucentral.edu.co\\Escritorio\\AppTrueque_E19-3\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_product_profile.xml",
+        "source": "C:\\Users\\Jhonny Martinez\\OneDrive - ucentral.edu.co\\Escritorio\\AppTrueque_E19-3\\app\\src\\main\\res\\layout\\activity_product_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jhonny Martinez\\OneDrive - ucentral.edu.co\\Escritorio\\AppTrueque_E19-3\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Jhonny Martinez\\OneDrive - ucentral.edu.co\\Escritorio\\AppTrueque_E19-3\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

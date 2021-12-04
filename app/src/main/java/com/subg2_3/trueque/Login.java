@@ -245,13 +245,9 @@ public class Login extends AppCompatActivity {
 
         dialog.setCancelable(false);/*Al precionar fuera de la animación esta seguira mostrandose, hasta que se precione el boton entendido*/
         dialog.show();
-
     }
-
-
     public void goToCheckIn(View view){
         Intent intentCheckIn = new Intent(this, CheckIn.class);
         startActivity(intentCheckIn);
     }
-
 }

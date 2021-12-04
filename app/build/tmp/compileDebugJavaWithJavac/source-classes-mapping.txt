@@ -1,15 +1,36 @@
-com/subg2_3/trueque/StartActivity.java
- com.subg2_3.trueque.StartActivity
- com.subg2_3.trueque.StartActivity$1
-com/subg2_3/trueque/ProductProfile.java
- com.subg2_3.trueque.ProductProfile
-com/subg2_3/trueque/BuildConfig.java
- com.subg2_3.trueque.BuildConfig
+com/subg2_3/trueque/databinding/ActivityProductProfileBinding.java
+ com.subg2_3.trueque.databinding.ActivityProductProfileBinding
+com/subg2_3/trueque/databinding/ActivityLoginBinding.java
+ com.subg2_3.trueque.databinding.ActivityLoginBinding
+com/subg2_3/trueque/databinding/ActivityCheckInBinding.java
+ com.subg2_3.trueque.databinding.ActivityCheckInBinding
+com/subg2_3/trueque/profileperson.java
+ com.subg2_3.trueque.profileperson
+com/subg2_3/trueque/databinding/ActivityMainBinding.java
+ com.subg2_3.trueque.databinding.ActivityMainBinding
 com/subg2_3/trueque/CheckIn.java
  com.subg2_3.trueque.CheckIn
  com.subg2_3.trueque.CheckIn$1
  com.subg2_3.trueque.CheckIn$2
  com.subg2_3.trueque.CheckIn$3
+com/subg2_3/trueque/databinding/ActivityAddBinding.java
+ com.subg2_3.trueque.databinding.ActivityAddBinding
+com/subg2_3/trueque/databinding/NoSesionBinding.java
+ com.subg2_3.trueque.databinding.NoSesionBinding
+com/subg2_3/trueque/MainActivity.java
+ com.subg2_3.trueque.MainActivity
+ com.subg2_3.trueque.MainActivity$1
+com/subg2_3/trueque/StartActivity.java
+ com.subg2_3.trueque.StartActivity
+ com.subg2_3.trueque.StartActivity$1
+com/subg2_3/trueque/ProductProfile.java
+ com.subg2_3.trueque.ProductProfile
+com/subg2_3/trueque/databinding/ActivityProfilepersonBinding.java
+ com.subg2_3.trueque.databinding.ActivityProfilepersonBinding
+com/subg2_3/trueque/BuildConfig.java
+ com.subg2_3.trueque.BuildConfig
+com/subg2_3/trueque/databinding/ActivityStartBinding.java
+ com.subg2_3.trueque.databinding.ActivityStartBinding
 com/subg2_3/trueque/Login.java
  com.subg2_3.trueque.Login
  com.subg2_3.trueque.Login$1
@@ -20,6 +41,3 @@ com/subg2_3/trueque/Login.java
  com.subg2_3.trueque.Login$6
 com/subg2_3/trueque/AddActivity.java
  com.subg2_3.trueque.AddActivity
-com/subg2_3/trueque/MainActivity.java
- com.subg2_3.trueque.MainActivity
- com.subg2_3.trueque.MainActivity$1
