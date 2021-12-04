@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/primaryColor"
+    tools:context=".Opciones.Mis_datos">
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:text="@string/PerfilTittle"
+            android:gravity="center"
+            android:textSize="25sp"
+            android:textColor="@color/primaryTextColor"
+            android:padding="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        </TextView>
+
+
+        <!--Imagen del ususario-->
+        <androidx.appcompat.widget.AppCompatImageView
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:src="@drawable/user"
+            android:layout_gravity="center" />
+
+        <!--UID-->
+        <TextView
+            android:id="@+id/profileuid"
+            android:text="@string/uis_Dato"
+            android:textSize="18sp"
+            android:textColor="@color/primaryTextColor"
+            android:layout_marginTop="3dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp">
+        </TextView>
+
+        <!--Nombre-->
+        <TextView
+            android:id="@+id/profilenombre"
+            android:text="@string/Nombre_Dato"
+            android:textSize="18sp"
+            android:textColor="@color/primaryTextColor"
+            android:layout_marginTop="3dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp">
+        </TextView>
+
+        <!--Teléfono-->
+        <TextView
+            android:id="@+id/profilephone"
+            android:text="@string/Phone_Dato"
+            android:textSize="18sp"
+            android:textColor="@color/primaryTextColor"
+            android:layout_marginTop="3dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp">
+        </TextView>
+
+        <!--Correo-->
+        <TextView
+            android:id="@+id/profilecorreo"
+            android:text="@string/Email_Dato"
+            android:textSize="18sp"
+            android:textColor="@color/primaryTextColor"
+            android:layout_marginTop="3dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp">
+        </TextView>
+
+        <!--Contraseña-->
+        <TextView
+            android:id="@+id/profilepass"
+            android:text="@string/Password_Dato"
+            android:textSize="18sp"
+            android:textColor="@color/primaryTextColor"
+            android:layout_marginTop="3dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp">
+        </TextView>
+
+        <!--Boton actualizar datos-->
+        <Button
+            android:id="@+id/actualizardatos"
+            android:text="@string/actualizardatos"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/secondaryColor"
+            android:textColor="@color/primaryTextColor"
+            android:layout_marginTop="25dp"
+            android:drawableLeft="@drawable/actualizar_ico"
+            android:layout_gravity="center">
+
+        </Button>
+
+        <!--Botón actualizar contraseña-->
+        <Button
+            android:id="@+id/actualizarpass"
+            android:text="@string/actualizarpass"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/secondaryColor"
+            android:textColor="@color/primaryTextColor"
+            android:layout_marginTop="5dp"
+            android:drawableLeft="@drawable/actualizarpass_ico"
+            android:layout_gravity="center">
+
+        </Button>
+
+
+
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+</ScrollView>

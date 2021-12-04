@@ -8,6 +8,35 @@
   "client": [
     {
       "client_info": {
+        "mobilesdk_app_id": "1:373036389620:android:19b2a29aebaebf0eef3aa1",
+        "android_client_info": {
+          "package_name": "com.gtappdevelopers.firebasecrudapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373036389620-6s758494i4pvukg6bo3umc7qq7isq056.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKbdJWQ5n4fVRDQXuTU-aZ1byox9GvIww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373036389620-6s758494i4pvukg6bo3umc7qq7isq056.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:373036389620:android:1e67bca00afca4f1ef3aa1",
         "android_client_info": {
           "package_name": "com.subg2_3.trueque"

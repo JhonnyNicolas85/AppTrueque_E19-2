@@ -1,4 +1,6 @@
 <resources>
+    <string name="facebook_app_id">207760158182653</string>
+    <string name="fb_login_protocol_scheme">fb207760158182653</string>
     <string name="app_name">Trueque</string>
     <string name="title_login">Iniciar Sesión</string>
     <string name="title_users">Publicaciones</string>
@@ -72,12 +74,16 @@
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
 
 
-    <!-- String del Profile Person-->
-    <string name="Profile_Title">Información del usuario</string>
-    <string name="Profile_Email">Email:</string>
-    <string name="Profile_Password">Contraseña:</string>
-    <string name="Profile_Name">Nombre:</string>
-    <string name="Profile_Telephone">Teléfono:</string>
-    <string name="Profile_Cancel">Salir</string>
+    <!--Mis Datos-->
+    <string name="uis_Dato">UID</string>
+    <string name="Nombre_Dato">Nombre</string>
+    <string name="Password_Dato">Contraseña</string>
+    <string name="Email_Dato">Correo</string>
+    <string name="Phone_Dato">Telefono</string>
+    <string name="ubication_dato">Ubicación</string>
+    <string name="PerfilTittle">Mis datos</string>
+    <string name="actualizardatos">Actualizar información</string>
+    <string name="actualizarpass">Actualizar contraseña</string>
+
 
 </resources>
