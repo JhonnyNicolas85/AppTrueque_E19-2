@@ -73,7 +73,9 @@
         <enum name="rectangles" value="5"/>
     </attr>
     <attr format="reference" name="drawerArrowStyle"/>
+    <attr format="reference" name="drawerLayoutStyle"/>
     <attr format="integer" name="duration"/>
+    <attr format="dimension" name="elevation"/>
     <attr format="color" name="elevationOverlayColor"/>
     <attr format="boolean" name="elevationOverlayEnabled"/>
     <attr format="boolean" name="enableEdgeToEdge"/>
@@ -648,6 +650,7 @@
     <dimen name="compat_control_corner_material">2dp</dimen>
     <dimen name="compat_notification_large_icon_max_height">320dp</dimen>
     <dimen name="compat_notification_large_icon_max_width">320dp</dimen>
+    <dimen name="def_drawer_elevation">10dp</dimen>
     <dimen name="default_dimension">100dp</dimen>
     <dimen name="design_appbar_elevation">4dp</dimen>
     <dimen name="design_bottom_navigation_active_item_max_width">168dp</dimen>
@@ -698,6 +701,7 @@
     <dimen name="design_textinput_caption_translate_y">5dp</dimen>
     <item format="float" name="disabled_alpha_material_dark" type="dimen">0.30</item>
     <item format="float" name="disabled_alpha_material_light" type="dimen">0.26</item>
+    <dimen name="fab_margin">16dp</dimen>
     <dimen name="fastscroll_default_thickness">8dp</dimen>
     <dimen name="fastscroll_margin">0dp</dimen>
     <dimen name="fastscroll_minimum_range">50dp</dimen>
@@ -1034,6 +1038,8 @@
     <item name="mtrl_internal_children_alpha_tag" type="id"/>
     <item name="mtrl_motion_snapshot_view" type="id"/>
     <item name="mtrl_view_tag_bottom_padding" type="id"/>
+    <item name="nav_controller_view_tag" type="id"/>
+    <item name="nav_host_fragment_container" type="id"/>
     <item name="navigation_bar_item_icon_view" type="id"/>
     <item name="navigation_bar_item_labels_group" type="id"/>
     <item name="navigation_bar_item_large_label_view" type="id"/>
@@ -1088,6 +1094,7 @@
     <integer name="app_bar_elevation_anim_duration">150</integer>
     <integer name="bottom_sheet_slide_duration">150</integer>
     <integer name="cancel_button_image_alpha">127</integer>
+    <integer name="config_navAnimTime">150</integer>
     <integer name="config_tooltipAnimTime">150</integer>
     <integer name="design_snackbar_text_max_lines">2</integer>
     <integer name="design_tab_indicator_anim_duration_ms">300</integer>
@@ -1132,6 +1139,12 @@
     <string name="Names">Digite su combre completo</string>
     <string name="Names1">Digite su nombre completo</string>
     <string name="NoInicio">No pudo iniciar sesión, intente nuevamente (Revise el correo y la contraseña)</string>
+    <string name="Profile_Cancel">Salir</string>
+    <string name="Profile_Email">Email:</string>
+    <string name="Profile_Name">Nombre:</string>
+    <string name="Profile_Password">Contraseña:</string>
+    <string name="Profile_Telephone">Teléfono:</string>
+    <string name="Profile_Title">Información del usuario</string>
     <string name="abc_action_bar_home_description">Navigate home</string>
     <string name="abc_action_bar_up_description">Navigate up</string>
     <string name="abc_action_menu_overflow_description">More options</string>
@@ -1207,12 +1220,16 @@
     <string name="exposed_dropdown_menu_content_description">Show dropdown menu</string>
     <string name="fab_transformation_scrim_behavior" translatable="false">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
     <string name="fab_transformation_sheet_behavior" translatable="false">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
+    <string name="firebase_database_url" translatable="false">https://truequeapp-c73ad-default-rtdb.firebaseio.com</string>
+    <string name="first_fragment_label">First Fragment</string>
     <string name="form_registro">REGISTRO</string>
     <string name="gcm_defaultSenderId" translatable="false">373036389620</string>
     <string name="google_api_key" translatable="false">AIzaSyCKbdJWQ5n4fVRDQXuTU-aZ1byox9GvIww</string>
     <string name="google_app_id" translatable="false">1:373036389620:android:1e67bca00afca4f1ef3aa1</string>
     <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCKbdJWQ5n4fVRDQXuTU-aZ1byox9GvIww</string>
     <string name="google_storage_bucket" translatable="false">truequeapp-c73ad.appspot.com</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
     <string name="hide_bottom_view_on_scroll_behavior" translatable="false">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="hint_city">Digite su ciudad</string>
     <string name="hint_email">Digite su Email</string>
@@ -1281,6 +1298,9 @@
     <string description="a11y string to indicate this button changes the input mode to a text field [CHAR_LIMIT=NONE]" name="mtrl_picker_toggle_to_text_input_mode">Switch to text input mode</string>
     <string description="a11y string to indicate this button switches the user to choosing a year [CHAR_LIMIT=NONE]" name="mtrl_picker_toggle_to_year_selection">Tap to switch to selecting a year</string>
     <string name="names">Nombres</string>
+    <string name="nav_app_bar_navigate_up_description">Navigate up</string>
+    <string name="nav_app_bar_open_drawer_description">Open navigation drawer</string>
+    <string name="next">Next</string>
     <string name="noPhoneUser">Teléfono</string>
     <string name="ok_no_inicio">Ententido</string>
     <string name="other_session">Iniciar sesión con:</string>
@@ -1292,13 +1312,16 @@
     <string name="path_password_eye_mask_visible" translatable="false">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_strike_through" translatable="false">M3.27,4.27 L19.74,20.74</string>
     <string name="phone">Telefono</string>
+    <string name="previous">Previous</string>
     <string name="project_id" translatable="false">truequeapp-c73ad</string>
     <string name="save">guardar</string>
     <string name="search_menu_title">Search</string>
+    <string name="second_fragment_label">Second Fragment</string>
     <string name="sig_in">Ingresar</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="takePhoto">Tomar foto del producto</string>
     <string name="telephone">Digite su telefono</string>
+    <string name="title_activity_profileperson">profileperson</string>
     <string name="title_login">Iniciar Sesión</string>
     <string name="title_users">Publicaciones</string>
     <string name="titulo_publicacion">Escritorio de madera</string>
@@ -4069,6 +4092,12 @@
         <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimary</item>
         <!-- Customize your theme here. -->
     </style>
+    <style name="Theme.Trueque.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="Theme.Trueque.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.Trueque.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
     <style name="ThemeOverlay.AppCompat" parent="Base.ThemeOverlay.AppCompat"/>
     <style name="ThemeOverlay.AppCompat.ActionBar" parent="Base.ThemeOverlay.AppCompat.ActionBar"/>
     <style name="ThemeOverlay.AppCompat.Dark" parent="Base.ThemeOverlay.AppCompat.Dark"/>
@@ -5287,6 +5316,13 @@
              give a clue that sharing is to be performed.
          -->
         <attr format="reference" name="expandActivityOverflowButtonDrawable"/>
+    </declare-styleable>
+    <declare-styleable name="ActivityNavigator">
+        <attr name="android:name"/>
+        <attr format="string" name="action"/>
+        <attr format="string" name="data"/>
+        <attr format="string" name="dataPattern"/>
+        <attr format="string" name="targetPackage"/>
     </declare-styleable>
     <declare-styleable name="AlertDialog">
         <attr name="android:layout"/>
@@ -6626,6 +6662,9 @@
         </attr>
     </declare-styleable>
     <declare-styleable name="CustomAttribute"><attr format="string" name="attributeName"/><attr format="color" name="customColorValue"/><attr format="color" name="customColorDrawableValue"/><attr format="integer" name="customIntegerValue"/><attr format="float" name="customFloatValue"/><attr format="string" name="customStringValue"/><attr format="dimension" name="customDimension"/><attr format="dimension" name="customPixelDimension"/><attr format="boolean" name="customBoolean"/></declare-styleable>
+    <declare-styleable name="DialogFragmentNavigator">
+        <attr name="android:name"/>
+    </declare-styleable>
     <declare-styleable name="DrawerArrowToggle">
         <!-- The drawing color for the bars -->
         <attr format="color" name="color"/>
@@ -6643,6 +6682,10 @@
         <attr format="dimension" name="barLength"/>
         <!-- The thickness (stroke size) for the bar paint -->
         <attr format="dimension" name="thickness"/>
+    </declare-styleable>
+    <declare-styleable name="DrawerLayout">
+        <!-- The height difference between the drawer and the base surface. Only takes effect on API 21 and above -->
+        <attr name="elevation"/>
     </declare-styleable>
     <declare-styleable name="ExtendedFloatingActionButton">
     <!-- Elevation for the ExtendedFloatingActionButton. -->
@@ -6814,6 +6857,9 @@
     <declare-styleable name="FragmentContainerView">
         <attr name="android:name"/>
         <attr name="android:tag"/>
+    </declare-styleable>
+    <declare-styleable name="FragmentNavigator">
+        <attr name="android:name"/>
     </declare-styleable>
     <declare-styleable name="GradientColor">
         <!-- Start color of the gradient. -->
@@ -7407,6 +7453,41 @@
             <enum name="staticPostLayout" value="2"/>
             <enum name="staticLayout" value="3"/>
         </attr><attr format="color" name="telltales_tailColor"/><attr format="float" name="telltales_tailScale"/></declare-styleable>
+    <declare-styleable name="NavAction">
+        <attr name="android:id"/>
+        <attr format="reference" name="destination"/>
+        <attr format="boolean" name="launchSingleTop"/>
+        <attr format="reference" name="popUpTo"/>
+        <attr format="boolean" name="popUpToInclusive"/>
+        <attr format="reference" name="enterAnim"/>
+        <attr format="reference" name="exitAnim"/>
+        <attr format="reference" name="popEnterAnim"/>
+        <attr format="reference" name="popExitAnim"/>
+    </declare-styleable>
+    <declare-styleable name="NavArgument">
+        <attr name="android:name"/>
+        <attr name="android:defaultValue"/>
+        <attr format="boolean" name="nullable"/>
+        <attr format="string" name="argType"/>
+    </declare-styleable>
+    <declare-styleable name="NavDeepLink">
+        <attr format="string" name="uri"/>
+        <attr format="string" name="action"/>
+        <attr format="string" name="mimeType"/>
+        <attr name="android:autoVerify"/>
+    </declare-styleable>
+    <declare-styleable name="NavGraphNavigator">
+        <attr format="reference" name="startDestination"/>
+    </declare-styleable>
+    <declare-styleable name="NavHost">
+        <attr format="reference" name="navGraph"/>
+    </declare-styleable>
+    <declare-styleable name="NavHostFragment">
+        <attr format="boolean" name="defaultNavHost"/>
+    </declare-styleable>
+    <declare-styleable name="NavInclude">
+        <attr format="reference" name="graph"/>
+    </declare-styleable>
     <declare-styleable name="NavigationBarView">
     <!-- Background tint for the navigation bar. -->
     <attr name="backgroundTint"/>
@@ -7526,6 +7607,10 @@
     -->
     <attr name="shapeAppearanceOverlay"/>
   </declare-styleable>
+    <declare-styleable name="Navigator">
+        <attr name="android:id"/>
+        <attr name="android:label"/>
+    </declare-styleable>
     <declare-styleable name="OnClick"><attr name="targetId"/><attr name="clickAction">
             <flag name="toggle" value="0x0011"/>
             <flag name="transitionToEnd" value="0x0001"/>

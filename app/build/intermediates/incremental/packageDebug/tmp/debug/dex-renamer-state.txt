@@ -1,10 +1,13 @@
-#Thu Dec 02 16:53:52 COT 2021
-base.2=C\:\\Users\\Joseph\\AppTrueque_E19-3\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\6\\classes.dex
+#Fri Dec 03 21:37:17 COT 2021
+path.3=9/classes.dex
 path.2=6/classes.dex
-base.1=C\:\\Users\\Joseph\\AppTrueque_E19-3\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 path.1=0/classes.dex
-base.0=C\:\\Users\\Joseph\\AppTrueque_E19-3\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+path.0=classes.dex
+base.3=C\:\\Users\\Jhonny Martinez\\OneDrive - ucentral.edu.co\\Escritorio\\AppTrueque_E19-3\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\9\\classes.dex
+base.2=C\:\\Users\\Jhonny Martinez\\OneDrive - ucentral.edu.co\\Escritorio\\AppTrueque_E19-3\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\6\\classes.dex
+base.1=C\:\\Users\\Jhonny Martinez\\OneDrive - ucentral.edu.co\\Escritorio\\AppTrueque_E19-3\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.0=C\:\\Users\\Jhonny Martinez\\OneDrive - ucentral.edu.co\\Escritorio\\AppTrueque_E19-3\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+renamed.3=classes4.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
-path.0=classes.dex
