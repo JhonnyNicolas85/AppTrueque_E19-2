@@ -307,7 +307,7 @@
                                 <PersistentState>
                                   <option name="values">
                                     <map>
-                                      <entry key="url" value="file:/$PROJECT_DIR$/../AppData/Local/Android/Sdk/icons/material/materialicons/supervised_user_circle/baseline_supervised_user_circle_24.xml" />
+                                      <entry key="url" value="file:/$PROJECT_DIR$/../AppData/Local/Android/Sdk/icons/material/materialicons/fingerprint/baseline_fingerprint_24.xml" />
                                     </map>
                                   </option>
                                 </PersistentState>
@@ -317,8 +317,8 @@
                         </option>
                         <option name="values">
                           <map>
-                            <entry key="color" value="ffffff" />
-                            <entry key="outputName" value="ic_baseline_supervised_user_circle_24" />
+                            <entry key="color" value="fff200" />
+                            <entry key="outputName" value="actualizarpass_ico" />
                             <entry key="sourceFile" value="C:\OneDrive\MinTicCiclo4\AppTrueque_E19-3" />
                           </map>
                         </option>

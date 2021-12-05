@@ -26,6 +26,7 @@
 
         <!--Imagen del ususario-->
         <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/profileimage"
             android:layout_width="150dp"
             android:layout_height="150dp"
             android:src="@drawable/user"
@@ -95,13 +96,14 @@
         <Button
             android:id="@+id/actualizardatos"
             android:text="@string/actualizardatos"
-            android:layout_width="wrap_content"
+            android:layout_width="275dp"
             android:layout_height="wrap_content"
             android:backgroundTint="@color/secondaryColor"
             android:textColor="@color/primaryTextColor"
             android:layout_marginTop="25dp"
             android:drawableLeft="@drawable/actualizar_ico"
-            android:layout_gravity="center">
+            android:layout_gravity="center"
+            android:padding="10dp">
 
         </Button>
 
@@ -109,13 +111,14 @@
         <Button
             android:id="@+id/actualizarpass"
             android:text="@string/actualizarpass"
-            android:layout_width="wrap_content"
+            android:layout_width="275dp"
             android:layout_height="wrap_content"
             android:backgroundTint="@color/secondaryColor"
             android:textColor="@color/primaryTextColor"
             android:layout_marginTop="5dp"
             android:drawableLeft="@drawable/actualizarpass_ico"
-            android:layout_gravity="center">
+            android:layout_gravity="center"
+            android:padding="10dp">
 
         </Button>
 
